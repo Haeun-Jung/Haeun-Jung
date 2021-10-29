@@ -1,5 +1,12 @@
-### Hi there 👋
+<!--[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JUNGHAEUN&fontSize=90&animation=blink)
+https://velog.io/@hsngju/github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0 -->
 
+
+### Hi there 👋  
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Haeun-Jung&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+<br>
+ 
 <!--
 **Haeun-Jung/Haeun-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <!--
-<br>
-
-
-[![Haeun's github stats](https://github-readme-stats.vercel.app/api?username=Haeun-Jung)](https://github.com/Haeun-Jung/github-readme-stats) -->
+  
+![footer](https://capsule-render.vercel.app/api?section=footer&color=#82CAFF)
