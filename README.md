@@ -3,7 +3,7 @@ https://velog.io/@hsngju/github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%E
 
 
 <h1 align="center">Hi 👋, I'm Haeun-Jung</h1>
-<h3 align="center">Frontend developer</h3>
+<!-- <h3 align="center">Frontend developer</h3> -->
 <p align="center">
  <a href="mailto:gkdms325@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gkdms325@gmail.com"/></a>
  <a href="mailto:gkdms7070@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=gkdms7070@naver.com"/></a>
